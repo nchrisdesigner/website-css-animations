@@ -75,6 +75,7 @@ body {
 @keyframes changeBg {
   to {
     background-color: hsl(267, 95%, 12%);
+    scale: 1;
   }
 }
 

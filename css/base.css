@@ -1,0 +1,22 @@
+body {
+  background-color: var(--bg);
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  padding: 0;
+  margin: 0;
+
+  timeline-scope: --hero-view;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --green: rgb(54, 233, 218);
+  --pink: rgb(54, 10, 130);
+  --bg: rgb(11, 7, 17);
+  --header-height: 70px;
+}
+
+
